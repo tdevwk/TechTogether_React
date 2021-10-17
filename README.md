@@ -1,5 +1,8 @@
-#This project displays the front-end
+# **Tech Together New York 2021**
+
 Project Overview: https://www.youtube.com/watch?v=45-JT--YjT8
+
+This project was started at Tech Together NY 2021 and displays the front-end.
 
 Getting Started with Create React App
 
